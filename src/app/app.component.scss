@@ -1,0 +1,15 @@
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px 0 20px 0;
+}
+tr {
+    max-height: 100vh;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border: 1px solid #000000;
+}
+.align-center {
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
